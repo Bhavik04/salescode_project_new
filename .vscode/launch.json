@@ -1,0 +1,85 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "salescode_project",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "salescode_project (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "salescode_project (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "salescode_sdk",
+            "cwd": "salescode_sdk",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "salescode_sdk (profile mode)",
+            "cwd": "salescode_sdk",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "salescode_sdk (release mode)",
+            "cwd": "salescode_sdk",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "authentication",
+            "cwd": "modules/authentication",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "authentication (profile mode)",
+            "cwd": "modules/authentication",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "authentication (release mode)",
+            "cwd": "modules/authentication",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "banner",
+            "cwd": "modules/banner",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "banner (profile mode)",
+            "cwd": "modules/banner",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "banner (release mode)",
+            "cwd": "modules/banner",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
